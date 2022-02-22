@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247463ff59ff6c24983dd5344e6362bd, type: 3}
+  m_Name: CleanWaterTileData
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 0d5c4f6cba451da468267b24f64f87fd, type: 2}
+  - {fileID: 11400000, guid: bb0d0a752998f9b409d69b1e671336ca, type: 2}
+  - {fileID: 11400000, guid: 6755883c8a9e20146b1149f151df321d, type: 2}
+  - {fileID: 11400000, guid: 61c3bf7409ef37045aea5b2d95f1380e, type: 2}
+  - {fileID: 11400000, guid: e315adc1406d1b4478ddae98415ff716, type: 2}
+  - {fileID: 11400000, guid: ef00d75ce03f1cc4a96cbb8938c73e9a, type: 2}
+  - {fileID: 11400000, guid: 227ca46cc0e7cd34dbb75b63b56b5c25, type: 2}
+  - {fileID: 11400000, guid: 77c23b57f476d404cb1d6d65a68563dd, type: 2}
+  - {fileID: 11400000, guid: 30c4e5f1fb59a994a94d88d81950ac97, type: 2}
+  - {fileID: 11400000, guid: 5c7d2ebe2e62d6749833829c4cf75868, type: 2}
+  - {fileID: 11400000, guid: dbf313e985c1d3c4c921f4a73eef9910, type: 2}
+  - {fileID: 11400000, guid: cdeb4c4577b1df14f9a0eb4e40dcf536, type: 2}
+  - {fileID: 11400000, guid: 7778c914176ad8547877fc631a1fb9a0, type: 2}
+  - {fileID: 11400000, guid: 5cf3851f8243eb04390f0881cf8e1cec, type: 2}
+  passable: 0
+  walkingSpeed: 0
+  damagePerSecond: 0
+  currentPollution: 0
+  pollutionThreshold: 0
+  pollutionAbsorption: 0
+  pollutionDiffusion: 0
